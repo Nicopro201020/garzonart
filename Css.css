@@ -1,0 +1,117 @@
+h1{
+   font-size: 35px;
+   font-family: Century Gothic;
+   font-weight: bold;
+   color: #476b6b;
+}
+
+
+p{
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Century Gothic;
+  color: #476b6b;
+}
+
+
+
+h2{
+   font-family:Century Gothic;
+   font-size: 30px;
+   color: #476b6b;
+}
+
+
+body{
+    text-align: center;
+}
+
+.agrupar {
+   background: #d6d6c2;
+   margin: 16px auto;
+   width: 1200px;
+   padding: 2px;
+   border: 2px solid;
+}
+
+
+
+
+
+
+.header{ 
+   background: #2d3436;
+   border: #636e72;
+   margin-left: 400px;
+   margin-right: 400px;
+   margin-top: 20px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+.menu{
+   background: #b3ccff;
+   margin: 20px;
+   padding: 3px;
+   text-align: right;
+   font-family: Century Gothic;
+}
+
+.menu li{
+   list-style: none;
+   font: bold 15px verdana;
+   display: inline-block;
+}
+
+
+.img_1{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+.img_2{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+.img_3{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+.img_4{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+.img_5{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+.img_6{
+   border: 3px #ffffb3 solid;
+   margin: 50px;
+
+}
+
+
+.nav-enlace{
+   padding: 10px 87px;
+   display: inline-block;
+   text-decoration: none;
+   color: #e65c00;
+}
+
+.nav-enlace:hover{
+   background: #636e72;
+}
+
+.LOGO{
+  
+}
